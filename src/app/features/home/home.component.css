@@ -95,6 +95,17 @@
   animation-fill-mode: both;
 }
 
+a {
+  font-family: 'sfpro';
+  color: #fff;
+  font-size: 8px;
+  font-weight: lighter;
+  margin-top: 4px;
+  margin-bottom: 8px;
+  text-decoration: none;
+  color: #fff;
+}
+
 /* Animation */
 
 @keyframes show {
